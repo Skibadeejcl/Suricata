@@ -1,0 +1,25 @@
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  background: #E83E8C;
+}
+
+h1{
+  font-weight: 700;
+  font-size: 60px;
+  color: #707070;
+  padding: 0.2em 0;
+}
+
+.tarjetas, .awesome i{
+    display: inline;
+}
+
+.logosuri{
+  height: 7em;
+
+}
